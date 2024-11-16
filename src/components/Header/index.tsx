@@ -24,7 +24,7 @@ export default function Header() {
       <div className="px-6 py-4 flex items-center justify-between">
         <div className="text-xl text-primary">
           <Link href={"/"}>
-            <h2 className="font-bold">Trend Prediction</h2>
+            <h2 className="font-bold">True Forum</h2>
           </Link>
         </div>
 

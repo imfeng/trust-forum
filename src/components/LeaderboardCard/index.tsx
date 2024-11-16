@@ -11,7 +11,7 @@ export default function LeaderboardCard({
   ranking = 1,
   name = "Tai Man",
   score = 599,
-  image = "/shines_logo.png",
+  image = "/peter.avif",
 }: LeaderboardCardProps) {
   return (
     <div className="bg-[#2D2D2D] rounded-xl py-3 px-5 flex items-center">
