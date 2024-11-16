@@ -1,3 +1,8 @@
+# Trust forum 
+This app let people give their opinion freely as they want to, there is no censorship mechanism for the speech. Users can either purpose their own topic or interact with others's topic with like or dislike,and this result is confidential. After certain period the result will be published and the winner will be announced. The winner is currently defined as the unser who stand at the most majority side of the topics.
+ 
+# Execution
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
